@@ -40,3 +40,6 @@ View the total utilized budget of a department -- ie the combined salaries of al
 As a business owner
 I want to be able to view and manage the departments, roles, and employees in my company
 So that I can organize and plan my business
+
+## Link to demo video 
+https://www.youtube.com/watch?v=aFVsUDTyqLU&feature=youtu.be
