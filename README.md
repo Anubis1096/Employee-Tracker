@@ -44,5 +44,5 @@ So that I can organize and plan my business
 ## Link to demo video 
 https://www.youtube.com/watch?v=aFVsUDTyqLU&feature=youtu.be
 
-## Image of application![example](https://user-images.githubusercontent.com/65513935/91523713-4b196680-e8b2-11ea-9179-6afcde110064.JPG)
+## Image of application
 ![example](https://user-images.githubusercontent.com/65513935/91523713-4b196680-e8b2-11ea-9179-6afcde110064.JPG)
